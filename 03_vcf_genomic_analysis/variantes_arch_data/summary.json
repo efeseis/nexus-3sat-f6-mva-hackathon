@@ -1,0 +1,21 @@
+{
+  "pipeline": "TRINOVA.OS R7.1",
+  "chromosome": "15",
+  "sample": "PROBAND01",
+  "hpo_count": 8,
+  "genes_chr15": 2819,
+  "transcripts_chr15": 22429,
+  "variants_processed": 170651,
+  "genes_ranked": 2098,
+  "compound_pairs": 698505,
+  "compound_levels": {
+    "level_1": 698505,
+    "level_2": 0,
+    "level_3": 0
+  },
+  "population_af_policy": "INFO/AF only; never inferred from AD/DP",
+  "allele_balance_policy": "AD/DP within proband",
+  "phase_policy": "UNKNOWN unless independently established",
+  "phenotype_policy": "HPO loaded but no HPO-gene association database applied",
+  "clinical_interpretation": "exploratory prioritization only"
+}

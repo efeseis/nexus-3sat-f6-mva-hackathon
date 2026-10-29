@@ -1,0 +1,6 @@
+proband_id,chrom_1,pos_1,ref_1,alt_1,chrom_2,pos_2,ref_2,alt_2,epcr,finding_type,notes
+PROBAND01,chr15,40209701,T,G,chr15,40220612,T,G,0.98,primary,BUB1B - Par de heterocigotos compuestos bialelicos (Stop-gained y Missense) asociados a inestabilidad mitotica y MVA.
+PROBAND01,chr15,22587629,T,C,chr15,22608113,C,T,0.85,secondary,GOLGA8IP - Candidato secundario heterocigoto compuesto en Chr 15.
+PROBAND01,chr15,22814504,A,G,chr15,22826077,G,GA,0.8,secondary,NIPA1 - Region critica relacionada con fenotipos neurologicos y desarrollo.
+PROBAND01,chr15,24958486,GTTTTTTT,G,chr15,24974365,T,C,0.75,secondary,SNRPN - Involucrado en regulacion epigenetica y region 15q11-q13.
+PROBAND01,chr15,32573465,T,C,chr15,32574480,G,C,0.65,secondary,ARHGAP11A-DT - Variante en marco de regulacion transcripcional.

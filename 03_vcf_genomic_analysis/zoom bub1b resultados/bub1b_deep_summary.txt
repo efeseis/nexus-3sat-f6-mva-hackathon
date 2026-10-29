@@ -1,0 +1,46 @@
+TRINOVA.OS — DEEP ZOOM BUB1B
+================================================================================
+
+GEN
+Gene: BUB1B
+Gene ID: ENSG00000156970.15
+Region: chr15:40160984-40221137
+Reference: GRCh38
+Annotation: GENCODE v50
+
+SAMPLE
+WGS_PROBAND01
+
+VARIANTS
+Total: 14
+SNV: 9
+INDEL/other: 5
+
+TRINOVA — REF/ALT
+Shannon: 1.495538030
+Maximum theoretical: 1.584962501
+Relative coherence: 0.056420559
+
+TERNARY DISTRIBUTION
+-1: 4 (22.222222%)
++0: 9 (50.000000%)
++1: 5 (27.777778%)
+
+TRANSITIONS
+-1->0: 3
+0->-1: 1
+0->1: 2
+1->0: 3
+
+OBSERVED SAMPLE — ALT TRITS
+Observed SNVs: 9
+Observed Shannon: 1.224394445
+
+OBSERVED DISTRIBUTION
+-1: 1 (11.111111%)
++0: 6 (66.666667%)
++1: 2 (22.222222%)
+
+REGIONS
+transcript_intron: 12
+exon: 2

@@ -1,0 +1,34 @@
+TRINOVA.OS
+ZOOM FUNCIONAL BUB1B
+================================================================================
+
+Muestra: proband01
+BUB1B: chr15:40160984-40221137
+
+VARIANTES
+Total: 14
+SNV: 9
+INDEL/otros: 5
+EXON/CDS: 2
+CDS: 2
+Cerca de splice: 0
+
+TRINOVA
+Shannon REF/ALT: 1.495538030
+Shannon observado: 1.224394445
+Valores ternarios: 18
+
+Distribución ternaria:
+  -1: 4
+  +0: 9
+  +1: 5
+
+CONSECUENCIAS CDS
+  STOP_GAINED: 1
+  MISSENSE: 1
+
+VARIANTES CDS
+  40209701 T>G GT=0/1 DP=46 GQ=99 STOP_GAINED L>* transcript=ENST00000287598.11
+  40220612 T>G GT=0/1 DP=28 GQ=99 MISSENSE N>K transcript=ENST00000287598.11
+
+VARIANTES CERCANAS A SPLICE

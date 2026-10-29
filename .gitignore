@@ -1,0 +1,16 @@
+# Large reference genomes and annotations
+gencode/*.fa
+gencode/*.fa.gz
+gencode/*.fasta
+gencode/*.fasta.gz
+gencode/*.gtf
+gencode/*.gtf.gz
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local environment and secrets
+.venv/
+venv/
+.env
